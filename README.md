@@ -1,7 +1,8 @@
 # react-admin
 
 Learning to use the react-admin framework to build admin dashboards & CRUD applications
-Username: admin
+
+Username: admin <br>
 Password: password
 
 ## Installation
